@@ -1,1 +1,1 @@
-# rsschool-cv
+https://snakeangel.github.io/rsschool-cv/cv
