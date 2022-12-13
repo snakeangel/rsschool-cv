@@ -6,7 +6,6 @@ E-mail: serginata@gmail.com
 ### Briefly About Myself:
 * higher technical education
 * Over 10 years experience in SEO
-* knowledge of English at the pre-intermediate level
 * Successful experience in optimizing websites
 * Excellent knowledge of HTML (Hypertext Markup Language) / CSS (Cascading Style Sheets)
 * excellent knowledge of SEO tools (screaming frog seo spider, etc.)
@@ -69,5 +68,7 @@ if (remainingLetters === 0) {
     alert("Спробуй ще!");
 }
 ```
-### Courses
-### Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### Courses:
+* Node.js, Express, MongoDB & More: The Complete Bootcamp
+### Languages:
+* knowledge of English at the pre-intermediate level
