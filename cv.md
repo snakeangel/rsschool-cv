@@ -12,7 +12,7 @@ E-mail: serginata@gmail.com
 * basic knowledge of PHP, Python, Ruby, JavaScript
 * good knowledge of Bitrix, Wordpress, Joomla, OpenCart platforms
 ### Code examples
-```javascript
+```
 var printMultipleTimes = function (howManyTimes, whatToDraw) {
     for (var i=0; i<howManyTimes; i++) {
         console.log(i + " " + whatToDraw)
